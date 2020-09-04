@@ -1,5 +1,5 @@
 //Hey Guys Its me Muzzamil.
-//here i written my Day 2 Assignment
+//here i written my Day 2 Assignment for your Reference 
 //Email: muzzamilpz@gmail.com
 
 //1)Program to Find a Particular Character in a String 
